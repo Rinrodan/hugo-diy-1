@@ -14,6 +14,6 @@
   "author": "Mario Bustillos",
   "license": "ISC",
   "devDependencies": {
-    "tailwindscss": "^3.3.3"
+    "tailwindscss": "^0.3.0"
   }
 }
