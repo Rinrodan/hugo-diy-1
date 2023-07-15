@@ -1,0 +1,19 @@
+{
+  "name": "hugo-diy-1",
+  "version": "1.0.0",
+  "description": "Hugo blog made using Tailwinds",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install",
+    "build-tailwinds": "npx tailwindcss -i ./assets/main.css -o ./assets/style.css"
+  },
+  "keywords": [
+    "blog",
+    "development"
+  ],
+  "author": "Mario Bustillos",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindscss": "^3.3.3"
+  }
+}
